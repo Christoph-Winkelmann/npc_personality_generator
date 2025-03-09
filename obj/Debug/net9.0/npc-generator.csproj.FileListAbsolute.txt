@@ -1,0 +1,14 @@
+C:\Users\Christoph\Documents\c#-projects\npc-generator\bin\Debug\net9.0\npc-generator.exe
+C:\Users\Christoph\Documents\c#-projects\npc-generator\bin\Debug\net9.0\npc-generator.deps.json
+C:\Users\Christoph\Documents\c#-projects\npc-generator\bin\Debug\net9.0\npc-generator.runtimeconfig.json
+C:\Users\Christoph\Documents\c#-projects\npc-generator\bin\Debug\net9.0\npc-generator.dll
+C:\Users\Christoph\Documents\c#-projects\npc-generator\bin\Debug\net9.0\npc-generator.pdb
+C:\Users\Christoph\Documents\c#-projects\npc-generator\obj\Debug\net9.0\npc-generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christoph\Documents\c#-projects\npc-generator\obj\Debug\net9.0\npc-generator.AssemblyInfoInputs.cache
+C:\Users\Christoph\Documents\c#-projects\npc-generator\obj\Debug\net9.0\npc-generator.AssemblyInfo.cs
+C:\Users\Christoph\Documents\c#-projects\npc-generator\obj\Debug\net9.0\npc-generator.csproj.CoreCompileInputs.cache
+C:\Users\Christoph\Documents\c#-projects\npc-generator\obj\Debug\net9.0\npc-generator.dll
+C:\Users\Christoph\Documents\c#-projects\npc-generator\obj\Debug\net9.0\refint\npc-generator.dll
+C:\Users\Christoph\Documents\c#-projects\npc-generator\obj\Debug\net9.0\npc-generator.pdb
+C:\Users\Christoph\Documents\c#-projects\npc-generator\obj\Debug\net9.0\npc-generator.genruntimeconfig.cache
+C:\Users\Christoph\Documents\c#-projects\npc-generator\obj\Debug\net9.0\ref\npc-generator.dll
